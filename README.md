@@ -1,3 +1,4 @@
+<img width="1920" height="1080" alt="Screenshot (112)" src="https://github.com/user-attachments/assets/c5d4bdd6-09ed-4637-9f82-3aa2aedf9794" />
 🎬 Movie Booking System
 
 A full-stack web application built with HTML, CSS, JavaScript (AJAX) for the frontend and PHP + MySQL for the backend.
@@ -67,4 +68,5 @@ users (id, name, email, phone, password)
 movies (id, title, poster, genre, rating)
 
 bookings (id, user_id, movie_id, seats, amount, booking_date, theater_name, theater_location, showtime)
+
 
