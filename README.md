@@ -3,7 +3,10 @@
 A full-stack web application built with HTML, CSS, JavaScript (AJAX) for the frontend and PHP + MySQL for the backend.
 It allows users to browse movies, view details, book tickets, and see their booking history.
 
-📌 Features
+📌 Features<img width="1920" height="1080" alt="Screenshot (104)" src="https://github.com/user-attachments/assets/66de7de1-3eaa-4e44-9301-6fa8062ea711" />
+<img width="1920" height="1080" alt="Screenshot (105)" src="https://github.com/user-attachments/assets/4c506aae-8641-4512-9c38-0214f3a0c93a" />
+<img width="1920" height="1080" alt="Screenshot (106)" src="https://github.com/user-attachments/assets/bd00ed31-d2cc-41a8-8a35-57a48698b974" />
+
 
 ✅ User Authentication
 
@@ -64,3 +67,4 @@ users (id, name, email, phone, password)
 movies (id, title, poster, genre, rating)
 
 bookings (id, user_id, movie_id, seats, amount, booking_date, theater_name, theater_location, showtime)
+
