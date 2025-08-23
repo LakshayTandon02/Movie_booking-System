@@ -68,7 +68,25 @@ users (id, name, email, phone, password)
 
 movies (id, title, poster, genre, rating)
 
+
+
+
+Evaluation Criteria
+
+Functionality: Application meets all minimum requirements and features work as expected.
+
+Code Quality: Clean, well-structured, and maintainable code.
+
+Backend Design: Efficient and logical API design with a scalable database schema.
+
+Frontend Implementation: Good user experience, intuitive UI, and proper state management.
+
+Proper use of Git: Individual feature commits that are trackable and meaningful.
+
+Problem Solving: Creative and effective implementation of bonus features or challenges.
+
 bookings (id, user_id, movie_id, seats, amount, booking_date, theater_name, theater_location, showtime)
+
 
 
 
